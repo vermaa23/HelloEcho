@@ -1,2 +1,2 @@
-1. Echo "Hello World"
-2. Echo "I am in master"
+echo "Hello World"
+echo "I am in Defect"
