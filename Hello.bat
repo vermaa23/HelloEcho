@@ -1,2 +1,2 @@
-Echo "Hello World"
-Echo "I am in master"
+echo "Hello World"
+echo "I am in master"
